@@ -8,4 +8,5 @@
   <li>Added Test model</li>
   <li>Added Question model</li>
   <li>Added AnswerOption model</li>
+  <li>Added tables into the Database that are corresponding to the models above (with Migration and an Update)</li>
 </ul>
