@@ -10,3 +10,5 @@
   <li>Added AnswerOption model</li>
   <li>Added tables into the Database that are corresponding to the models above (with Migration and an Update) while using code first approach</li>
 </ul>
+<p>Also, I have learned more about such things as DTO and Mapper so I decided to add them into a backend project as well.</p>
+<p>Made a Github repository initialization and after that few pushes as well.</p>
