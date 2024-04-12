@@ -12,3 +12,30 @@
 </ul>
 <p>Also, I have learned more about such things as DTO and Mapper so I decided to add them into a backend project as well.</p>
 <p>Made a Github repository initialization and after that few pushes as well.</p>
+
+<h2>11.04.2024</h2>
+<p>Learned more about:</p>
+<ul>
+  <li>Repository Pattern</li>
+  <li>Dependency Injection</li>
+  <li>Logging via Serilog</li>
+  <li>How to add an SQLite database (later to be used for storing logging information.)</li>
+  <li>How to implement global exception handling middleware</li>
+  <li>Process of overriding ToString() method with JsonSerializer.Serialize(this)</li>
+</ul>
+
+<h2>12.04.2024</h2>
+<p>Learned more about:</p>
+<ul>
+  <li>How to make my controller action methods more maintainable through:</li>
+  <ol>
+    <li>Repository Pattern</li>
+    <li>DTos</li>
+    <li>Mapping</li>
+    <li>Exception Handling</li>
+    <li>Action Filters</li>
+    <li>Tight Coupling</li>
+  </ol>
+  <li>Filters (Action Filter)</li>
+  <li>ServiceFilter, TypeFilter (if arguments are required), IActionFilter</li>
+</ul>
