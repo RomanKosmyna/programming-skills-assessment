@@ -39,3 +39,13 @@
   <li>Filters (Action Filter)</li>
   <li>ServiceFilter, TypeFilter (if arguments are required), IActionFilter</li>
 </ul>
+
+<h2>14.04.2024</h2>
+<p>Learned more about:</p>
+<ul>
+  <li>Get by id route</li>
+  <li>Create route with a [FromBody] attribute</li>
+  <li>Delete route</li>
+  <li>HttpContent for HTTP requests</li>
+  <li>CreatedAtAction</li>
+</ul>
