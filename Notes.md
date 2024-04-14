@@ -48,4 +48,5 @@
   <li>Delete route</li>
   <li>HttpContent for HTTP requests</li>
   <li>CreatedAtAction</li>
+  <li>Using mapper for updating an entity</li>
 </ul>
