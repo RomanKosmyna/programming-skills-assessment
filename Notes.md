@@ -50,3 +50,9 @@
   <li>CreatedAtAction</li>
   <li>Using mapper for updating an entity</li>
 </ul>
+
+<h2>15.04.2024</h2>
+<p>Learned more about:</p>
+<ul>
+  <li>Difference between HttpPut and HttpPatch (Patch can be used for a partial update which in return can reduce a payload that is required to send. Put is used to create an entirely new object or update an already existing object fully)</li>
+</ul>
