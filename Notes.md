@@ -56,3 +56,10 @@
 <ul>
   <li>Difference between HttpPut and HttpPatch (Patch can be used for a partial update which in return can reduce a payload that is required to send. Put is used to create an entirely new object or update an already existing object fully)</li>
 </ul>
+
+<p>Did following:</p>
+<ul>
+  <li>Added interface for a Test repository</li>
+  <li>Added repository for a Test entity</li>
+  <li>Added Test controller</li>
+</ul>
