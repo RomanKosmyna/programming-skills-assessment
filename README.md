@@ -16,3 +16,6 @@
 <h2>База даних</h2>
 <h3>Первинна діаграма для роботи з тестами</h3>
 <img src="https://github.com/RomanKosmyna/programming-skills-assessment/blob/main/Diagrams/Test%20DB%20Structure.jpg">
+
+<h3>Первинна діаграма UI структури з врахуванням відповідних запитів для відображення</h3>
+<img src="https://github.com/RomanKosmyna/programming-skills-assessment/blob/main/Diagrams/basic-ui-structure.jpg">
