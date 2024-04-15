@@ -63,3 +63,6 @@
   <li>Added repository for a Test entity</li>
   <li>Added Test controller</li>
 </ul>
+
+<p>Got introduced with an object cycle during JSON serialization.</p>
+<p>Fixed it by adding a [JsonIgnore] attribute that will ignore my navigation property in a Test entity.</p>
