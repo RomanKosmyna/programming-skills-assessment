@@ -67,3 +67,8 @@
 <p>Got introduced with an object cycle during JSON serialization.</p>
 <p>Fixed it by adding a [JsonIgnore] attribute that will ignore my navigation property in a Test entity.</p>
 <p>Added JsonPatchDocument for patch route support.</p>
+<p>Fixing/fixed following problems:</p>
+<ul>
+  <li>The instance of entity type 'Test' cannot be tracked because another instance with the same key value for {'TestID'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.</li>
+  <li>An unhandled exception has occurred while executing the request. System.Text.Json.JsonException: A possible object cycle was detected. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.</li>
+</ul>
