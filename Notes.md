@@ -66,3 +66,4 @@
 
 <p>Got introduced with an object cycle during JSON serialization.</p>
 <p>Fixed it by adding a [JsonIgnore] attribute that will ignore my navigation property in a Test entity.</p>
+<p>Added JsonPatchDocument for patch route support.</p>
