@@ -75,3 +75,7 @@
 
 <h2>16.04.2024</h2>
 <p>Found out about .NET Aspire.</p>
+
+<h2>17.04.2024</h2>
+<p>Currently learning if a null is a desired data type to return as a result.</p>
+<p>So far, it seems better to return an empty array if method is designed to return an array or list.</p>
