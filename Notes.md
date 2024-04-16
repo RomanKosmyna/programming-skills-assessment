@@ -79,3 +79,4 @@
 <h2>17.04.2024</h2>
 <p>Currently learning if a null is a desired data type to return as a result.</p>
 <p>So far, it seems better to return an empty array if method is designed to return an array or list.</p>
+<p>When talking about a method that returns a single item, there are a lot of options. For now, I will stick with returning null in my repository and then handle that in my action method.</p>
