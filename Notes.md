@@ -72,3 +72,6 @@
   <li>The instance of entity type 'Test' cannot be tracked because another instance with the same key value for {'TestID'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.</li>
   <li>An unhandled exception has occurred while executing the request. System.Text.Json.JsonException: A possible object cycle was detected. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.</li>
 </ul>
+
+<h2>16.04.2024</h2>
+<p>Found out about .NET Aspire.</p>
