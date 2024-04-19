@@ -81,3 +81,6 @@
 <p>So far, it seems better to return an empty array if method is designed to return an array or list.</p>
 <p>When talking about a method that returns a single item, there are a lot of options. For now, I will stick with returning null in my repository and then handle that in my action method.</p>
 <p>Using FirstOrDefault() or Find() when looking for an object by using and id. Find() can skip making a request into a database since it will track if this id was already used somewhere else.</p>
+
+<h2>19.04.2024</h2>
+<p>Learning about authentication and authorization in ASP .NET Core.</p>
