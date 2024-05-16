@@ -17,14 +17,51 @@
 <h3>Frontend</h3>
 <ul>
   <li>HTML</li>
-  <li>CSS (Tailwind)</li>
   <li>TypeScript</li>
-  <li>React (Vite)</li>
+  <div>
+    <h4>Styling</h4>
+      <ul>
+        <li>CSS (Tailwind)</li>
+        <li>Chakra UI Icons</li>
+      </ul>
+  </div>
+  <div>
+    <h4>Library</h4>
+      <ul>
+        <li>React (Vite)</li>
+        <li>Chakra UI React</li>
+        <li>TanStack Query</li>
+        <li>React Hook Form</li>
+        <li>Joi</li>
+        <li>React Redux</li>
+        <li>React Redux Toolkit</li>
+      </ul>
+  </div>
 </ul>
 
-<h2>База даних</h2>
-<h3>Первинна діаграма для роботи з тестами</h3>
-<img src="https://github.com/RomanKosmyna/programming-skills-assessment/blob/main/Diagrams/Test%20DB%20Structure.jpg">
+<h3>Backend</h3>
+<ul>
+  <li>.NET/C#</li>
+  <li>ASP .NET Core</li>
+  <li>Entity Framework</li>
+  <div>
+    <h4>Packages</h4>
+      <ul>
+        <li>Serilog</li>
+        <li>AutoMapper</li>
+        <li>ASP .NET Core JWT Bearer</li>
+        <li>ASP .NET Core Identity</li>
+      </ul>
+    <h4>Patterns</h4>
+    <ul>
+      <li>DTO Pattern</li>
+      <li>Repository Pattern</li>
+    </ul>
+  </div>
+</ul>
 
-<h3>Первинна діаграма UI структури з врахуванням відповідних запитів для відображення</h3>
-<img src="https://github.com/RomanKosmyna/programming-skills-assessment/blob/main/Diagrams/basic-ui-structure.jpg">
+<h3>Database</h3>
+<ul>
+  <li>MS SQL Server</li>
+  <li>SQLite</li>
+</ul>
