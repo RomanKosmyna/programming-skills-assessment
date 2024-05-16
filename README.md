@@ -13,6 +13,15 @@
   <li>Реалізація можливості збереження результатів тестування авторизованим користувачам.</li>
 </ul>
 
+<h2>Technologies</h2>
+<h3>Frontend</h3>
+<ul>
+  <li>HTML</li>
+  <li>CSS (Tailwind)</li>
+  <li>TypeScript</li>
+  <li>React (Vite)</li>
+</ul>
+
 <h2>База даних</h2>
 <h3>Первинна діаграма для роботи з тестами</h3>
 <img src="https://github.com/RomanKosmyna/programming-skills-assessment/blob/main/Diagrams/Test%20DB%20Structure.jpg">
