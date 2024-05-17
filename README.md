@@ -68,3 +68,10 @@
   <li>MS SQL Server</li>
   <li>SQLite</li>
 </ul>
+
+<h3>Development tools</h3>
+<ul>
+  <li>Visual Studio Code</li>
+  <li>Visual Studio</li>
+  <li>Postman</li>
+</ul>
